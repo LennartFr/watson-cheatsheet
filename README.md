@@ -12,6 +12,8 @@ Quickly and easily build a chatbot for your organization - no machine learning e
 1. [Discovery News](https://www.ibm.com/watson/services/discovery-news/)
 1. [Watson Knowledge Studio](https://www.ibm.com/us-en/marketplace/supervised-machine-learning) 
 
+Watson Knowledge Studio is a cloud-based application that enables developers and domain experts to collaborate and create custom annotator components for unique industries. These annotators can identify mentions and relationships in unstructured data and be easily administered throughout their lifecycle using one common tool. Annotator components can be deployed directly to IBM Watson Explorer, Watson Natural Language Understanding and Watson Discovery Service.
+
 
 ## Empathy
 1. [Personality Insights](https://www.ibm.com/watson/services/personality-insights/)
