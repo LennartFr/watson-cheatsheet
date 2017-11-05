@@ -12,7 +12,9 @@
 
 ## Empathy
 1. [Personality Insights](https://www.ibm.com/watson/services/personality-insights/)
-1. [Tone Analyzer](https://www.ibm.com/watson/services/tone-analyzer/)
+1. [Personality Insights Demo](https://personality-insights-livedemo.mybluemix.net/)
+1. [Tone Analyzer](https://www.ibm.com/watson/services/tone-analyzer/) 
+1. [Tone Analyzer Demo](https://tone-analyzer-demo.mybluemix.net/)
 
 ## Speech
 1. [Speech to Text](https://www.ibm.com/watson/services/speech-to-text/)
@@ -21,6 +23,7 @@
 ## Language
 1. [Language Translator](https://www.ibm.com/watson/services/language-translator/)
 1. [Natural Language Classifier](https://www.ibm.com/watson/services/natural-language-classifier/)
+1. [Natural Language Classifier Demo](https://natural-language-classifier-demo.mybluemix.net/)
 
 ## Visual Recognition
 1. [Visual Recognition](https://www.ibm.com/watson/services/visual-recognition/)
