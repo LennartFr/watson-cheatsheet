@@ -5,7 +5,7 @@
 
 ## Discovery
 1. [Discovery](https://www.ibm.com/watson/services/discovery/)
-1. [Natural Language Understanding](https://www.ibm.com/watson/services/natural-language-understanding/
+1. [Natural Language Understanding](https://www.ibm.com/watson/services/natural-language-understanding/)
 1. [Discovery News](https://www.ibm.com/watson/services/discovery-news/)
 1. [Watson Knowledge Studio](https://www.ibm.com/us-en/marketplace/supervised-machine-learning) 
 
