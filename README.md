@@ -39,7 +39,9 @@ Analyze emotions and tones in what people write online, like tweets or reviews. 
 
 ## Speech
 1. [Speech to Text](https://www.ibm.com/watson/services/speech-to-text/)
+Easily convert audio and voice into written text for quick understanding of content. 
 1. [Text to Speech](https://www.ibm.com/watson/services/text-to-speech/)
+Convert written text into natural-sounding audio in a variety of languages and voices
 
 ## Language
 1. [Language Translator](https://www.ibm.com/watson/services/language-translator/)
