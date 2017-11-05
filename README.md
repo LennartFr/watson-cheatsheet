@@ -37,11 +37,10 @@ Analyze emotions and tones in what people write online, like tweets or reviews. 
 ## Language
 1. [Language Translator](https://www.ibm.com/watson/services/language-translator/)
 1. [Natural Language Classifier](https://www.ibm.com/watson/services/natural-language-classifier/) 
+Understand the intent behind text and returns a corresponding classification, complete with a confidence score.
 1. [Natural Language Classifier Demo](https://natural-language-classifier-demo.mybluemix.net/)
 
 ## Visual Recognition
 1. [Visual Recognition](https://www.ibm.com/watson/services/visual-recognition/)
+Visual Recognition understands the contents of images. Analyze images for scenes, objects, faces, colors, food, and other subjects that can give you insights into your visual content.
 1. [Visual Recognition Demo](https://visual-recognition-demo.ng.bluemix.net/)
-
-
-
