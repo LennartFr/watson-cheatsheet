@@ -1,6 +1,8 @@
 # watson-cheatsheet
 ## Conversation
 1. [Conversation](https://www.ibm.com/watson/services/conversation/)
+Quickly build and deploy chatbots and virtual agents across a variety of channels, including mobile devices, messaging platforms, and even robots.
+
 1. [Watson Virtual Agent](https://www.ibm.com/us-en/marketplace/cognitive-customer-engagement)
 
 Quickly and easily build a chatbot for your organization - no machine learning experience required
