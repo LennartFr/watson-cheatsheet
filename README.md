@@ -18,12 +18,13 @@
 1. [Speech to Text](https://www.ibm.com/watson/services/speech-to-text/)
 1. [Text to Speech](https://www.ibm.com/watson/services/text-to-speech/)
 
-## language
+## Language
 1. [Language Translator](https://www.ibm.com/watson/services/language-translator/)
 1. [Natural Language Classifier](https://www.ibm.com/watson/services/natural-language-classifier/)
 
 ## Visual Recognition
 1. [Visual Recognition](https://www.ibm.com/watson/services/visual-recognition/)
+1. [Visual Recognition Demo](https://visual-recognition-demo.ng.bluemix.net/)
 
 
 
