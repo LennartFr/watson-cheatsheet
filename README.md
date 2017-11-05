@@ -9,8 +9,11 @@ Quickly and easily build a chatbot for your organization - no machine learning e
 ## Discovery
 1. [Discovery](https://www.ibm.com/watson/services/discovery/)
 1. [Natural Language Understanding](https://www.ibm.com/watson/services/natural-language-understanding/)
+Natural Language Understanding is a collection of APIs that offer text analysis through natural language processing. This set of APIs can analyze text to help you understand its concepts, entities, keywords, sentiment, and more. Additionally, you can create a custom model for some APIs to get specific results that are tailored to your domain.
 1. [Natural Language Understanding Demo](https://natural-language-understanding-demo.mybluemix.net/)
 1. [Discovery News](https://www.ibm.com/watson/services/discovery-news/)
+Explore news and blogs with smarter news from Watson that includes concepts, sentiment, relationships and categories. Watson also identifies important meta-information – like authors, publication dates, and relevant keywords.
+[Discovery News Demo](https://discovery-news-demo.mybluemix.net/)
 1. [Watson Knowledge Studio](https://www.ibm.com/us-en/marketplace/supervised-machine-learning) 
 Watson Knowledge Studio is a cloud-based application that enables developers and domain experts to collaborate and create custom annotator components for unique industries. These annotators can identify mentions and relationships in unstructured data and be easily administered throughout their lifecycle using one common tool. Annotator components can be deployed directly to IBM Watson Explorer, Watson Natural Language Understanding and Watson Discovery Service.
 
