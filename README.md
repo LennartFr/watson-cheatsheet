@@ -43,6 +43,8 @@ Analyze emotions and tones in what people write online, like tweets or reviews. 
 
 ## Language
 1. [Language Translator](https://www.ibm.com/watson/services/language-translator/)
+Translate text from one language to another. Take news from across the globe and present it in your language, communicate with your customers in their own language, and more.
+
 1. [Natural Language Classifier](https://www.ibm.com/watson/services/natural-language-classifier/) 
 Understand the intent behind text and returns a corresponding classification, complete with a confidence score.
 1. [Natural Language Classifier Demo](https://natural-language-classifier-demo.mybluemix.net/)
