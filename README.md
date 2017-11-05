@@ -11,7 +11,7 @@
 
 
 ## Empathy
-1. [Personality Insights][https://www.ibm.com/watson/services/personality-insights/)
+1. [Personality Insights](https://www.ibm.com/watson/services/personality-insights/)
 1. [Tone Analyzer](https://www.ibm.com/watson/services/tone-analyzer/)
 
 ## Speech
