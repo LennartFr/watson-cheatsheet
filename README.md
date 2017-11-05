@@ -8,6 +8,13 @@ Quickly and easily build a chatbot for your organization - no machine learning e
 
 ## Discovery
 1. [Discovery](https://www.ibm.com/watson/services/discovery/)
+
+Spend less time struggling with your data. Automated ingestion and integrated natural language processing in a fully managed cloud service removes the complexity from dealing with natural language content.
+Easily adapt Discovery’s understanding of your corpus with integrated machine learning to surface the most relevant answers. Teach Discovery to apply the knowledge of unique entities and relations in your industry or organization with Watson Knowledge Studio.
+
+Uncover deep connections throughout your data by using advanced AI functions out of the box, such as natural language queries, passage retrieval, relevancy training, relationship graphs and anomaly detection.
+
+
 1. [Natural Language Understanding](https://www.ibm.com/watson/services/natural-language-understanding/)
 Natural Language Understanding is a collection of APIs that offer text analysis through natural language processing. This set of APIs can analyze text to help you understand its concepts, entities, keywords, sentiment, and more. Additionally, you can create a custom model for some APIs to get specific results that are tailored to your domain.
 1. [Natural Language Understanding Demo](https://natural-language-understanding-demo.mybluemix.net/)
