@@ -23,8 +23,11 @@ Introducing the new IBM® Watson Explorer - a cognitive exploration and content 
 
 ## Empathy
 1. [Personality Insights](https://www.ibm.com/watson/services/personality-insights/)
+Use linguistic analytics to infer individuals' personality characteristics, including Big Five, Needs, and Values, from digital communications such as email, blogs, tweets, and forum posts.
+
 1. [Personality Insights Demo](https://personality-insights-livedemo.mybluemix.net/)
-1. [Tone Analyzer](https://www.ibm.com/watson/services/tone-analyzer/) 
+1. [Tone Analyzer](https://www.ibm.com/watson/services/tone-analyzer/)
+Analyze emotions and tones in what people write online, like tweets or reviews. Predict whether they are happy, sad, confident, and more.
 1. [Tone Analyzer Demo](https://tone-analyzer-demo.mybluemix.net/)
 
 ## Speech
