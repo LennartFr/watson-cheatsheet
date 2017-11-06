@@ -1,4 +1,12 @@
 # watson-cheatsheet
+
+## URLs
+
+1. [Watson homepage](https://www.ibm.com/watson/)
+1. [Watson Products and Servcices](https://www.ibm.com/watson/products-services/)
+1. [The AI behind Watson](http://www.aaai.org/Magazine/Watson/watson.php)
+
+
 ## Conversation
 1. [Conversation](https://www.ibm.com/watson/services/conversation/)
 Quickly build and deploy chatbots and virtual agents across a variety of channels, including mobile devices, messaging platforms, and even robots.
