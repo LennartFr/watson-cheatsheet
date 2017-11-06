@@ -6,8 +6,10 @@
 1. [Watson Products and Servcices](https://www.ibm.com/watson/products-services/)
 1. [The AI behind Watson](http://www.aaai.org/Magazine/Watson/watson.php)
 
+## Watson Services
 
-## Conversation
+
+### Conversation
 1. [Conversation](https://www.ibm.com/watson/services/conversation/)
 Quickly build and deploy chatbots and virtual agents across a variety of channels, including mobile devices, messaging platforms, and even robots.
 
@@ -16,7 +18,7 @@ Quickly build and deploy chatbots and virtual agents across a variety of channel
 Quickly and easily build a chatbot for your organization - no machine learning experience required
 
 
-## Discovery
+### Discovery
 1. [Discovery](https://www.ibm.com/watson/services/discovery/)
 
 Spend less time struggling with your data. Automated ingestion and integrated natural language processing in a fully managed cloud service removes the complexity from dealing with natural language content.
@@ -38,7 +40,7 @@ Watson Knowledge Studio is a cloud-based application that enables developers and
 Introducing the new IBM® Watson Explorer - a cognitive exploration and content analysis platform that lets you listen to your data for advice. Explore and analyze structured, unstructured, internal, external and public content to uncover trends and patterns that improve decision-making, customer service and ROI. Leverage built-in cognitive capabilities powered by machine learning models, natural language processing and next-generation APIs to unlock hidden value in all your data. Gain a secure 360-degree view of customers, in context, to deliver better experiences for your clients.
 
 
-## Empathy
+### Empathy
 1. [Personality Insights](https://www.ibm.com/watson/services/personality-insights/)
 Use linguistic analytics to infer individuals' personality characteristics, including Big Five, Needs, and Values, from digital communications such as email, blogs, tweets, and forum posts.
 
@@ -47,13 +49,13 @@ Use linguistic analytics to infer individuals' personality characteristics, incl
 Analyze emotions and tones in what people write online, like tweets or reviews. Predict whether they are happy, sad, confident, and more.
 1. [Tone Analyzer Demo](https://tone-analyzer-demo.mybluemix.net/)
 
-## Speech
+### Speech
 1. [Speech to Text](https://www.ibm.com/watson/services/speech-to-text/)
 Easily convert audio and voice into written text for quick understanding of content. 
 1. [Text to Speech](https://www.ibm.com/watson/services/text-to-speech/)
 Convert written text into natural-sounding audio in a variety of languages and voices
 
-## Language
+### Language
 1. [Language Translator](https://www.ibm.com/watson/services/language-translator/)
 Translate text from one language to another. Take news from across the globe and present it in your language, communicate with your customers in their own language, and more.
 
@@ -61,7 +63,7 @@ Translate text from one language to another. Take news from across the globe and
 Understand the intent behind text and returns a corresponding classification, complete with a confidence score.
 1. [Natural Language Classifier Demo](https://natural-language-classifier-demo.mybluemix.net/)
 
-## Visual Recognition
+### Visual Recognition
 1. [Visual Recognition](https://www.ibm.com/watson/services/visual-recognition/)
 Visual Recognition understands the contents of images. Analyze images for scenes, objects, faces, colors, food, and other subjects that can give you insights into your visual content.
 1. [Visual Recognition Demo](https://visual-recognition-demo.ng.bluemix.net/)
