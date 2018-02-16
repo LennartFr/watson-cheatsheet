@@ -39,6 +39,9 @@ Explore news and blogs with smarter news from Watson that includes concepts, sen
 Watson Knowledge Studio is a cloud-based application that enables developers and domain experts to collaborate and create custom annotator components for unique industries. These annotators can identify mentions and relationships in unstructured data and be easily administered throughout their lifecycle using one common tool. Annotator components can be deployed directly to IBM Watson Explorer, Watson Natural Language Understanding and Watson Discovery Service.
 
 1. [Watson Explorer](https://www.ibm.com/us-en/marketplace/content-analytics)
+
+    https://youtu.be/o-Ia9-BIDrk
+
 Introducing the new IBM® Watson Explorer - a cognitive exploration and content analysis platform that lets you listen to your data for advice. Explore and analyze structured, unstructured, internal, external and public content to uncover trends and patterns that improve decision-making, customer service and ROI. Leverage built-in cognitive capabilities powered by machine learning models, natural language processing and next-generation APIs to unlock hidden value in all your data. Gain a secure 360-degree view of customers, in context, to deliver better experiences for your clients.
 
 
