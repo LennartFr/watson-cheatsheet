@@ -6,6 +6,7 @@
 1. [Watson Products and Servcices](https://www.ibm.com/watson/products-services/)
 1. [The AI behind Watson](http://www.aaai.org/Magazine/Watson/watson.php)
 1. [Code patterns](https://developer.ibm.com/code/patterns/)
+1. [Watson AI Patterns](https://developer.ibm.com/code/technologies/artificial-intelligence/)
 
 ## Watson Services
 
