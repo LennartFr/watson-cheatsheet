@@ -32,7 +32,7 @@ Uncover deep connections throughout your data by using advanced AI functions out
 1. [Natural Language Understanding](https://www.ibm.com/watson/services/natural-language-understanding/)
 Natural Language Understanding is a collection of APIs that offer text analysis through natural language processing. This set of APIs can analyze text to help you understand its concepts, entities, keywords, sentiment, and more. Additionally, you can create a custom model for some APIs to get specific results that are tailored to your domain.
 1. [Natural Language Understanding Demo](https://natural-language-understanding-demo.mybluemix.net/)
-1. [Discovery News](https://www.ibm.com/watson/services/discovery-news/)
+1. [Discovery News](https://www.ibm.com/watson/services/discovery-news/) 
 Explore news and blogs with smarter news from Watson that includes concepts, sentiment, relationships and categories. Watson also identifies important meta-information – like authors, publication dates, and relevant keywords.
 1. [Discovery News Demo](https://discovery-news-demo.mybluemix.net/)
 1. [Watson Knowledge Studio](https://www.ibm.com/us-en/marketplace/supervised-machine-learning) 
