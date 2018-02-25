@@ -38,6 +38,8 @@ Explore news and blogs with smarter news from Watson that includes concepts, sen
 1. [Watson Knowledge Studio](https://www.ibm.com/us-en/marketplace/supervised-machine-learning) 
 Watson Knowledge Studio is a cloud-based application that enables developers and domain experts to collaborate and create custom annotator components for unique industries. These annotators can identify mentions and relationships in unstructured data and be easily administered throughout their lifecycle using one common tool. Annotator components can be deployed directly to IBM Watson Explorer, Watson Natural Language Understanding and Watson Discovery Service.
 
+[Watson Knowledge Studio — Tips & Tricks](https://medium.com/@IdTypeThat/watson-knowledge-studio-tips-tricks-60466df0a204)
+
 1. [Watson Explorer](https://www.ibm.com/us-en/marketplace/content-analytics)
 
     https://youtu.be/o-Ia9-BIDrk
