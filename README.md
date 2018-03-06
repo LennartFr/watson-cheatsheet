@@ -1,5 +1,10 @@
 # watson-cheatsheet
 
+## Quick start
+
+1. https://console.bluemix.net/docs/services/watson/index.html#about
+1. https://console.bluemix.net/developer/watson/dashboard
+
 ## URLs
 
 1. [Watson homepage](https://www.ibm.com/watson/)
