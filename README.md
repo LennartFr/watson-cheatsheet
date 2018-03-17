@@ -1,3 +1,7 @@
+# IBM Code Patterns
+
+[IBM Code Patterns] (https://developer.ibm.com/code/patterns/)
+
 # watson-cheatsheet
 
 ## Quick start
