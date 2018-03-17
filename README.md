@@ -8,7 +8,9 @@
 
 [IBM Code Patterns](https://developer.ibm.com/code/patterns/)
 
-# watson-cheatsheet
+# Hyperledger Composer https://hyperledger.github.io/composer/
+
+# Watson-cheatsheet
 
 ## Quick start
 
