@@ -1,4 +1,4 @@
-# [Watson Cheatsheet] (https://ibm.biz/BdZZis)
+# [Watson Cheatsheet] (http://ibm.biz/BdZPjc)
 
 # IBM Cloud
 
