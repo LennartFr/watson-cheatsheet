@@ -1,3 +1,5 @@
+# [Watson Cheatsheet](https://ibm.biz/BdZZis)
+
 # IBM Cloud
 
 [IBM Cloud](https://console.bluemix.net/catalog/?taxonomyNavigation=apps&category=watson)
