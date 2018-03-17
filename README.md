@@ -80,4 +80,4 @@ Understand the intent behind text and returns a corresponding classification, co
 ### Visual Recognition
 1. [Visual Recognition](https://www.ibm.com/watson/services/visual-recognition/)
 Visual Recognition understands the contents of images. Analyze images for scenes, objects, faces, colors, food, and other subjects that can give you insights into your visual content.
-1. [Visual Recognition Demo](https://visual-recognition-demo.ng.bluemix.net/)
+1. [Visual Recognition Demo](https://www.ibm.com/watson/services/visual-recognition/demo/)
