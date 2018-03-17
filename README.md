@@ -1,6 +1,6 @@
-# IBM Clode
+# IBM Cloud
 
-[IBM Code](https://console.bluemix.net/catalog/?taxonomyNavigation=apps&category=watson)
+[IBM Cloud](https://console.bluemix.net/catalog/?taxonomyNavigation=apps&category=watson)
 
 # IBM Code Patterns
 
